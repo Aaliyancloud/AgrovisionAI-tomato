@@ -1,0 +1,10 @@
+{
+  "name": "AgroVision AI - Tomato Plant Disease Detection",
+  "description": "A cinematic, scroll-driven 3D web experience and AI diagnostic platform for detecting tomato plant diseases, analyzing leaf health, and empowering smart agriculture.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
